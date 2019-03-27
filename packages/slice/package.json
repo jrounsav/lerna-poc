@@ -1,0 +1,26 @@
+{
+  "name": "slice",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Jared Rounsavall <jrounsav@asu.edu>",
+  "homepage": "https://github.com/jrounsav/lerna-poc/tree/master/packages/slice#readme",
+  "license": "ISC",
+  "main": "lib/slice.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrounsav/lerna-poc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jrounsav/lerna-poc/issues"
+  }
+}
