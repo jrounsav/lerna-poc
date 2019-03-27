@@ -1,6 +1,6 @@
 {
   "name": "widget",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Jared Rounsavall <jrounsav@asu.edu>",
   "homepage": "https://github.com/jrounsav/lerna-poc/tree/master/packages/widget#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/jrounsav/lerna-poc/issues"
   },
   "dependencies": {
-    "slice": "^0.0.0"
+    "slice": "^0.0.1"
   }
 }
