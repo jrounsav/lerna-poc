@@ -24,6 +24,7 @@
     "url": "https://github.com/jrounsav/lerna-poc/issues"
   },
   "dependencies": {
-    "slice": "^2.1.0"
+    "slice": "^2.1.0",
+    "toppings": "^1.1.0"
   }
 }
