@@ -1,6 +1,6 @@
 {
   "name": "slice",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A slice of pie",
   "author": "Jared Rounsavall <jrounsav@asu.edu>",
   "homepage": "https://github.com/jrounsav/lerna-poc/tree/master/packages/slice#readme",
