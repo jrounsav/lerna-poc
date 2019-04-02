@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/jrounsav/lerna-poc/issues"
+  },
+  "dependencies": {
+    "slice": "^2.0.0"
   }
 }
