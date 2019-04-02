@@ -1,6 +1,6 @@
 {
   "name": "pie",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "> TODO: description",
   "author": "Jared Rounsavall <jrounsav@asu.edu>",
   "homepage": "https://github.com/jrounsav/lerna-poc/tree/master/packages/pie#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/jrounsav/lerna-poc/issues"
   },
   "dependencies": {
-    "slice": "^2.0.0"
+    "slice": "^2.1.0"
   }
 }
