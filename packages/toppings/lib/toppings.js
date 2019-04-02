@@ -1,7 +1,12 @@
-'use strict';
+import React from "react";
 
-module.exports = toppings;
-
-function toppings() {
-    // TODO
+export default class toppings extends React.Component {
+  render() {
+    return (
+      <div>
+        <p>Cherry</p>
+        <p>Whipped Cream</p>
+      </div>
+    );
+  }
 }
